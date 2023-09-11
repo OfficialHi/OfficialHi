@@ -18,10 +18,10 @@ I'm a passionate web developer, always eager to learn and explore the vast world
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="YourName's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true" />
+  <img align="left" alt="OfficialHi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OfficialHi&show_icons=true&hide_border=true" />
 </details>
 
 <details>
   <summary>💼 Top Languages</summary>
-  <img alt="YourName's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&hide=java,kotlin&theme=radical&hide_border=true&layout=compact" />
+  <img alt="OfficialHi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialHi&hide=java,kotlin&theme=radical&hide_border=true&layout=compact" />
 </details>
